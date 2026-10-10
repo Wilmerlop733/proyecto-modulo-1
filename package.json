@@ -1,0 +1,15 @@
+{
+  "name": "proyecto-modulo-1",
+  "version": "1.0.0",
+  "description": "Sitio web responsive con Bootstrap y Node.js",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "jquery": "^3.7.1",
+    "@popperjs/core": "^2.11.8",
+    "lite-server": "^2.6.1"
+  }
+}
